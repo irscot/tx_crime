@@ -1,6 +1,6 @@
 ---
 
-# 📘 README
+# README
 
 ## Houston Crime Data: Alcohol‑Related Incident Analysis
 
