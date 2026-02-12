@@ -2,9 +2,9 @@
 
 # README
 
-## Houston Crime Data: Alcohol‑Related Incident Analysis
+## Texas Crime Data: Alcohol‑Related Incident Analysis
 
-This project analyzes Houston crime data to identify and visualize **alcohol‑related offenses** over time. The script filters relevant incidents, converts date fields, aggregates monthly counts, and plots trends using a line chart.
+This project analyzes Texas crime data to identify and visualize **alcohol‑related offenses** over time. The script filters relevant incidents, converts date fields, aggregates monthly counts, and plots trends using a line chart.
 
 ---
 
@@ -47,7 +47,7 @@ A line chart visualizes the number of alcohol‑related crimes per month, with l
 
 ## Output
 
-- A line plot showing monthly alcohol‑related crime trends in Houston  
+- A line plot showing monthly alcohol‑related crime trends in Texas  
 - Aggregated monthly counts of filtered incidents  
 
 ---
